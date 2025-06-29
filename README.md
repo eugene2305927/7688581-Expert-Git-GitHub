@@ -43,8 +43,13 @@ A définir
 
 ## Technologies :
 
+<<<<<<< HEAD
 * HTML5
 *CSS3
+=======
+* HTML5/CSS3
+* JavaScript
+>>>>>>> 2f0906618754791ce0afab5b764df5b6197cff48
 * [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
